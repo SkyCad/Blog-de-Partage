@@ -1,0 +1,155 @@
+.header_div{
+    position: absolute;
+    top: 15;
+    left: 15;
+    width: 95%;
+    height: 150px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background: #77B5FE;
+    border-bottom: 1px solid #e0e0e0;
+}
+.logo{
+    width: 150px;
+    height: 150px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.title{
+    font-size: 3.5em;
+    font-family: 'Kaushan Script', cursive;
+    position: absolute;
+    top: 0px;
+    left: 600px;
+}
+.inscription_link{
+    position: absolute;
+    top: 30px;
+    left: 1300px;
+    text-decoration: none;
+    background-color: #ED965C;
+    border-radius: 20px;
+    padding: 10px 20px;
+    color: black;
+    text-align: center;
+    margin-right: 45px;
+}
+.inscription_div{
+    position: absolute;
+    top: 200px;
+    left: 15px;
+    width: 1470px;
+    height: 550px;
+    background: linear-gradient(to bottom, #77B5FE, white);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.inscription_text {
+    position: absolute;
+    top: 20px;
+    left: 610px;
+    background-color: #ED965C;
+    border-radius: 20px;
+    padding: 20px 70px;
+}
+.label1{
+    position: absolute;
+    top: 150px;
+    left: 400px;
+    background-color: #3A94FF;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+.label2{
+    position: absolute;
+    top: 230px;
+    left: 400px;
+    background-color: #3A94FF;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+.label3 {
+    position: absolute;
+    top: 310px;
+    left: 400px;
+    font-size: 1.5em;
+    background-color: #3A94FF;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+.reponse {
+    position: absolute;
+    top: 310px;
+    left: 750px;
+    width: 250px;
+    height: 40px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+.pseudo{
+    position: absolute;
+    top: 150px;
+    left: 750px;
+    width: 250px;
+    height: 40px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+.mdp {
+    position: absolute;
+    top: 230px;
+    left: 750px;
+    width: 250px;
+    height: 40px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+.form_link{
+    position: absolute;
+    top: 400px;
+    left: 650px;
+    text-decoration: none;
+    background-color: #3A94FF;
+    border-radius: 20px;
+    padding: 10px 20px;
+    color: black;
+    text-align: center;
+}
+.submit{
+    position: absolute;
+    top: 470px;
+    left: 670px;
+    text-decoration: none;
+    background-color: #ED965C;
+    border-radius: 20px;
+    padding: 10px 50px;
+    color: black;
+    text-align: center;
+}
+.footer_div{
+    position: absolute;
+    top: 820px;
+    left: 15px;
+    width: 98%;
+    height: 180px;
+    background:  #77B5FE;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.footer_text{
+    position: absolute;
+    top: 40px;
+    left: 600px;
+    font-size: 2em;
+}
+.footer_logo{
+    position: absolute;
+    top: 25px;
+    left: 1270px;
+    width: 170px;
+    height: 140px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
